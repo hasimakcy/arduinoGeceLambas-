@@ -1,0 +1,5 @@
+Arduino Uno
+Ses sensörü
+Röle modülü
+Jumper Kablo
+9V adaptör
